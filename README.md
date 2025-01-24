@@ -3,9 +3,9 @@
 
 ## Project Overview
 Create interactive and insightful dashboards for critical business areas:
-- **Customer Retention**: Identifying factors influencing customer churn and improving retention strategies.
-- **Diversity & Inclusion**: Assessing workforce diversity metrics and promoting inclusive practices.
-- **Key Performance Indicators (KPI)**: Tracking and measuring business performance through KPIs.
+- **Customer Retention**: Identifying factors influencing customer churn and improving retention strategies. [View PDF](https://github.com/hueyywennn/project3/blob/main/Customer%20Retention%20Dashboard.pdf)
+- **Diversity & Inclusion**: Assessing workforce diversity metrics and promoting inclusive practices. [View PDF](https://github.com/hueyywennn/project3/blob/main/Diversity%20%26%20Inclusion%20Dashboard.pdf)
+- **Key Performance Indicators (KPI)**: Tracking and measuring business performance through KPIs. [View PDF](https://github.com/hueyywennn/project3/blob/main/Key%20Performance%20Indicators%20(KPIs)%20Dashboard.pdf)
 
 ## Features
 1. **Customer Retention Analysis:**
