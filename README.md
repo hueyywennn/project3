@@ -2,6 +2,8 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ## Project Overview
+Created dynamic Power BI dashboards to communicate KPIs and effectively deliver tailored solutions to client requests. Demonstrating strong communication through concise, informative email updates to engagement partners, providing actionable insights based on data analysis. Utilizing analytical problem-solving skills to investigate HR data, focusing on gender-related KPIs, and identifying root causes of gender balance issues at the executive management level, emphasizing a commitment to data-driven decision-making.
+
 Create interactive and insightful dashboards for critical business areas:
 - **Customer Retention**: Identifying factors influencing customer churn and improving retention strategies. [View PDF](https://github.com/hueyywennn/project3/blob/main/Customer%20Retention%20Dashboard.pdf)
 - **Diversity & Inclusion**: Assessing workforce diversity metrics and promoting inclusive practices. [View PDF](https://github.com/hueyywennn/project3/blob/main/Diversity%20%26%20Inclusion%20Dashboard.pdf)
